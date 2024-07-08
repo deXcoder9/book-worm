@@ -1,0 +1,112 @@
+[
+    
+    {
+      "bookName": "Educated: A Memoir",
+      "author": "Tara Westover",
+      "category": "Memoir",
+      "review": "A gripping tale of self-discovery and resilience.",
+      "tags": ["autobiography", "education", "family"],
+      "totalPages": 352,
+      "publisher": "Random House",
+      "yearOfPublishing": 2018,
+      "rating": 4.5,
+      "image": "https://i.ibb.co/dgKkgCD/main-qimg-ddf8eec66f8eac73ce8b1313e846a727-lq-removebg-preview.png"
+    },
+    {
+      "bookName": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "category": "Non-fiction",
+      "review": "A fascinating exploration of human history.",
+      "tags": ["history", "anthropology", "science"],
+      "totalPages": 443,
+      "publisher": "Harper",
+      "yearOfPublishing": 2014,
+      "rating": 4.7,
+      "image": "https://i.ibb.co/3kjHqhL/0bb4b4e070265e87e5d971f02b169df3-removebg-preview.png"
+    },
+    {
+      "bookName": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "category": "Self-help",
+      "review": "A refreshing take on personal development.",
+      "tags": ["motivation", "self-improvement", "mindset"],
+      "totalPages": 224,
+      "publisher": "HarperOne",
+      "yearOfPublishing": 2016,
+      "rating": 4.1,
+      "image": "https://i.ibb.co/BBPVWFx/main-qimg-0ff383fba8e8c396ed9591aefa32d92a-pjlq-removebg-preview.png"
+    },
+    {
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "category": "Thriller",
+      "review": "A gripping psychological thriller with unexpected twists.",
+      "tags": ["mystery", "suspense", "psychology"],
+      "totalPages": 336,
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019,
+      "rating": 4.2,
+      "image": "https://i.ibb.co/MD5kBkG/Well-do-th-repairs-for-you-removebg-preview.png"
+    },
+    {
+      "bookName": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "category": "Mystery",
+      "review": "An atmospheric and haunting tale of survival.",
+      "tags": ["nature", "crime", "coming-of-age"],
+      "totalPages": 384,
+      "publisher": "G.P. Putnam's Sons",
+      "yearOfPublishing": 2018,
+      "rating": 4.6,
+      "image": "https://i.ibb.co/qBbMv91/Where-the-Crawdads-Sing-content.png"
+    },
+    {
+      "bookName": "Becoming",
+      "author": "Michelle Obama",
+      "category": "Memoir",
+      "review": "An intimate and inspiring memoir.",
+      "tags": ["autobiography", "politics", "inspiration"],
+      "totalPages": 426,
+      "publisher": "Crown Publishing Group",
+      "yearOfPublishing": 2018,
+      "rating": 4.8,
+      "image": "https://i.ibb.co/MhQTGC2/15-05-2021-133510becoming-michelle-obama-removebg-preview.png"
+    },
+    {
+        "bookName": "The Cradle of the Worlds",
+        "author": "Jane Doe",
+        "category": "Fantasy",
+        "review": "An exciting adventure in a magical world.",
+        "tags": ["adventure", "magic", "fantasy"],
+        "totalPages": 400,
+        "publisher": "Fantasy Press",
+        "yearOfPublishing": 2022,
+        "rating": 4.0,
+        "image": "https://i.ibb.co/CHzFSbz/cradle.png"
+      },
+      {
+        "bookName": "Whitechapel",
+        "author": "John Smith",
+        "category": "Science Fiction",
+        "review": "A mind-bending journey through space and time.",
+        "tags": ["science fiction", "space", "time travel"],
+        "totalPages": 320,
+        "publisher": "Sci-Fi Publishing",
+        "yearOfPublishing": 2023,
+        "rating": 4.2,
+        "image": "https://i.ibb.co/XjN1MB0/Sci-Fi-DOCA-scaled-removebg-preview.png"
+      },
+      {
+        "bookName": "The Midnight Library",
+        "author": "Matt Haig",
+        "category": "Fiction",
+        "review": "A thought-provoking journey through life's possibilities.",
+        "tags": ["fantasy", "philosophy", "life"],
+        "totalPages": 304,
+        "publisher": "Viking",
+        "yearOfPublishing": 2020,
+        "rating": 4.3,
+        "image": "https://i.ibb.co/VpXs13Y/canongate-20-1-213233b-1000x0-removebg-preview.png"
+      }
+  ]
+  
